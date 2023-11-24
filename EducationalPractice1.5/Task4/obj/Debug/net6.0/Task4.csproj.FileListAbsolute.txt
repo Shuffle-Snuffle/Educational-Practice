@@ -1,0 +1,45 @@
+C:\Users\public.COPP\source\repos\EducationalPractice1.5\Task4\bin\Debug\net6.0\Task4.exe
+C:\Users\public.COPP\source\repos\EducationalPractice1.5\Task4\bin\Debug\net6.0\Task4.deps.json
+C:\Users\public.COPP\source\repos\EducationalPractice1.5\Task4\bin\Debug\net6.0\Task4.runtimeconfig.json
+C:\Users\public.COPP\source\repos\EducationalPractice1.5\Task4\bin\Debug\net6.0\Task4.dll
+C:\Users\public.COPP\source\repos\EducationalPractice1.5\Task4\bin\Debug\net6.0\ref\Task4.dll
+C:\Users\public.COPP\source\repos\EducationalPractice1.5\Task4\bin\Debug\net6.0\Task4.pdb
+C:\Users\public.COPP\source\repos\EducationalPractice1.5\Task4\obj\Debug\net6.0\Task4.csproj.AssemblyReference.cache
+C:\Users\public.COPP\source\repos\EducationalPractice1.5\Task4\obj\Debug\net6.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\public.COPP\source\repos\EducationalPractice1.5\Task4\obj\Debug\net6.0\Task4.AssemblyInfoInputs.cache
+C:\Users\public.COPP\source\repos\EducationalPractice1.5\Task4\obj\Debug\net6.0\Task4.AssemblyInfo.cs
+C:\Users\public.COPP\source\repos\EducationalPractice1.5\Task4\obj\Debug\net6.0\Task4.csproj.CoreCompileInputs.cache
+C:\Users\public.COPP\source\repos\EducationalPractice1.5\Task4\obj\Debug\net6.0\Task4.dll
+C:\Users\public.COPP\source\repos\EducationalPractice1.5\Task4\obj\Debug\net6.0\ref\Task4.dll
+C:\Users\public.COPP\source\repos\EducationalPractice1.5\Task4\obj\Debug\net6.0\Task4.pdb
+C:\Users\public.COPP\source\repos\EducationalPractice1.5\Task4\obj\Debug\net6.0\Task4.genruntimeconfig.cache
+C:\Users\public.COPP\Desktop\Учебная практика1.5\EducationalPractice1.5\Task4\bin\Debug\net6.0\Task4.exe
+C:\Users\public.COPP\Desktop\Учебная практика1.5\EducationalPractice1.5\Task4\bin\Debug\net6.0\Task4.deps.json
+C:\Users\public.COPP\Desktop\Учебная практика1.5\EducationalPractice1.5\Task4\bin\Debug\net6.0\Task4.runtimeconfig.json
+C:\Users\public.COPP\Desktop\Учебная практика1.5\EducationalPractice1.5\Task4\bin\Debug\net6.0\Task4.dll
+C:\Users\public.COPP\Desktop\Учебная практика1.5\EducationalPractice1.5\Task4\bin\Debug\net6.0\ref\Task4.dll
+C:\Users\public.COPP\Desktop\Учебная практика1.5\EducationalPractice1.5\Task4\bin\Debug\net6.0\Task4.pdb
+C:\Users\public.COPP\Desktop\Учебная практика1.5\EducationalPractice1.5\Task4\obj\Debug\net6.0\Task4.csproj.AssemblyReference.cache
+C:\Users\public.COPP\Desktop\Учебная практика1.5\EducationalPractice1.5\Task4\obj\Debug\net6.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\public.COPP\Desktop\Учебная практика1.5\EducationalPractice1.5\Task4\obj\Debug\net6.0\Task4.AssemblyInfoInputs.cache
+C:\Users\public.COPP\Desktop\Учебная практика1.5\EducationalPractice1.5\Task4\obj\Debug\net6.0\Task4.AssemblyInfo.cs
+C:\Users\public.COPP\Desktop\Учебная практика1.5\EducationalPractice1.5\Task4\obj\Debug\net6.0\Task4.csproj.CoreCompileInputs.cache
+C:\Users\public.COPP\Desktop\Учебная практика1.5\EducationalPractice1.5\Task4\obj\Debug\net6.0\Task4.dll
+C:\Users\public.COPP\Desktop\Учебная практика1.5\EducationalPractice1.5\Task4\obj\Debug\net6.0\ref\Task4.dll
+C:\Users\public.COPP\Desktop\Учебная практика1.5\EducationalPractice1.5\Task4\obj\Debug\net6.0\Task4.pdb
+C:\Users\public.COPP\Desktop\Учебная практика1.5\EducationalPractice1.5\Task4\obj\Debug\net6.0\Task4.genruntimeconfig.cache
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.5\Task4\bin\Debug\net6.0\Task4.exe
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.5\Task4\bin\Debug\net6.0\Task4.deps.json
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.5\Task4\bin\Debug\net6.0\Task4.runtimeconfig.json
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.5\Task4\bin\Debug\net6.0\Task4.dll
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.5\Task4\bin\Debug\net6.0\Task4.pdb
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.5\Task4\obj\Debug\net6.0\Task4.csproj.AssemblyReference.cache
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.5\Task4\obj\Debug\net6.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.5\Task4\obj\Debug\net6.0\Task4.AssemblyInfoInputs.cache
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.5\Task4\obj\Debug\net6.0\Task4.AssemblyInfo.cs
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.5\Task4\obj\Debug\net6.0\Task4.csproj.CoreCompileInputs.cache
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.5\Task4\obj\Debug\net6.0\Task4.dll
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.5\Task4\obj\Debug\net6.0\refint\Task4.dll
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.5\Task4\obj\Debug\net6.0\Task4.pdb
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.5\Task4\obj\Debug\net6.0\Task4.genruntimeconfig.cache
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.5\Task4\obj\Debug\net6.0\ref\Task4.dll

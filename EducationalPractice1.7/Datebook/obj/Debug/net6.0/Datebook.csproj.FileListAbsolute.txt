@@ -1,0 +1,42 @@
+C:\Users\Snuffle\source\repos\EducationalPractice1.8\Datebook\bin\Debug\net6.0\Datebook.exe
+C:\Users\Snuffle\source\repos\EducationalPractice1.8\Datebook\bin\Debug\net6.0\Datebook.deps.json
+C:\Users\Snuffle\source\repos\EducationalPractice1.8\Datebook\bin\Debug\net6.0\Datebook.runtimeconfig.json
+C:\Users\Snuffle\source\repos\EducationalPractice1.8\Datebook\bin\Debug\net6.0\Datebook.dll
+C:\Users\Snuffle\source\repos\EducationalPractice1.8\Datebook\bin\Debug\net6.0\Datebook.pdb
+C:\Users\Snuffle\source\repos\EducationalPractice1.8\Datebook\obj\Debug\net6.0\Datebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Snuffle\source\repos\EducationalPractice1.8\Datebook\obj\Debug\net6.0\Datebook.AssemblyInfoInputs.cache
+C:\Users\Snuffle\source\repos\EducationalPractice1.8\Datebook\obj\Debug\net6.0\Datebook.AssemblyInfo.cs
+C:\Users\Snuffle\source\repos\EducationalPractice1.8\Datebook\obj\Debug\net6.0\Datebook.csproj.CoreCompileInputs.cache
+C:\Users\Snuffle\source\repos\EducationalPractice1.8\Datebook\obj\Debug\net6.0\Datebook.dll
+C:\Users\Snuffle\source\repos\EducationalPractice1.8\Datebook\obj\Debug\net6.0\refint\Datebook.dll
+C:\Users\Snuffle\source\repos\EducationalPractice1.8\Datebook\obj\Debug\net6.0\Datebook.pdb
+C:\Users\Snuffle\source\repos\EducationalPractice1.8\Datebook\obj\Debug\net6.0\Datebook.genruntimeconfig.cache
+C:\Users\Snuffle\source\repos\EducationalPractice1.8\Datebook\obj\Debug\net6.0\ref\Datebook.dll
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.8\Datebook\bin\Debug\net6.0\Datebook.exe
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.8\Datebook\bin\Debug\net6.0\Datebook.deps.json
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.8\Datebook\bin\Debug\net6.0\Datebook.runtimeconfig.json
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.8\Datebook\bin\Debug\net6.0\Datebook.dll
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.8\Datebook\bin\Debug\net6.0\Datebook.pdb
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.8\Datebook\obj\Debug\net6.0\Datebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.8\Datebook\obj\Debug\net6.0\Datebook.AssemblyInfoInputs.cache
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.8\Datebook\obj\Debug\net6.0\Datebook.AssemblyInfo.cs
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.8\Datebook\obj\Debug\net6.0\Datebook.csproj.CoreCompileInputs.cache
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.8\Datebook\obj\Debug\net6.0\Datebook.dll
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.8\Datebook\obj\Debug\net6.0\refint\Datebook.dll
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.8\Datebook\obj\Debug\net6.0\Datebook.pdb
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.8\Datebook\obj\Debug\net6.0\Datebook.genruntimeconfig.cache
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.8\Datebook\obj\Debug\net6.0\ref\Datebook.dll
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.7\Datebook\bin\Debug\net6.0\Datebook.exe
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.7\Datebook\bin\Debug\net6.0\Datebook.deps.json
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.7\Datebook\bin\Debug\net6.0\Datebook.runtimeconfig.json
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.7\Datebook\bin\Debug\net6.0\Datebook.dll
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.7\Datebook\bin\Debug\net6.0\Datebook.pdb
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.7\Datebook\obj\Debug\net6.0\Datebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.7\Datebook\obj\Debug\net6.0\Datebook.AssemblyInfoInputs.cache
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.7\Datebook\obj\Debug\net6.0\Datebook.AssemblyInfo.cs
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.7\Datebook\obj\Debug\net6.0\Datebook.csproj.CoreCompileInputs.cache
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.7\Datebook\obj\Debug\net6.0\Datebook.dll
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.7\Datebook\obj\Debug\net6.0\refint\Datebook.dll
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.7\Datebook\obj\Debug\net6.0\Datebook.pdb
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.7\Datebook\obj\Debug\net6.0\Datebook.genruntimeconfig.cache
+C:\Users\Snuffle\Desktop\Готовая учебная практика\EducationalPractice1.7\Datebook\obj\Debug\net6.0\ref\Datebook.dll
